@@ -1,2 +1,2 @@
-# Landing-Page
-This is a Landing page created using HTML and CSS
+# AdventureTour-Assignment-3-MERN
+This is a landing page created using html and CSS
